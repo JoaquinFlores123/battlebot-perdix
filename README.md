@@ -1,5 +1,5 @@
 # Perdix - 2018
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
+Perdix es el nombre del robot de batalla desarrollado durante el transcurso del Taller de Proyecto EI2001-31 de la Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile. El proyecto contempla la realización de un robot de batalla (Battlebot) desde cero pasando por distintas etapas hasta su desarrollo final y funcional. Sin más veamos como se realizó.
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
@@ -7,11 +7,8 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
-
+- Joaquin Flores - FCFM 
+- Gonzalo Hernández - FCFM
 
 ## Descripción del proyecto
 
